@@ -1,0 +1,7 @@
+.added {
+  width: 120px;
+  height: 130px;
+}
+.added:hover {
+  cursor: pointer;
+}
